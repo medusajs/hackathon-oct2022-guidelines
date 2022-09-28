@@ -2,7 +2,7 @@
 
 ![Medusa Hackathon 2022](hackathon-banner.jpeg)
 
-This repository includes all the rules and guidelines that the README file of your GitHub submission must follow.
+This repository acts as a template for GitHub submissions to Medusa's Hackathon 2022. It includes all the rules and guidelines that the README file of your GitHub submission must follow.
 
 ## {project name}
 
