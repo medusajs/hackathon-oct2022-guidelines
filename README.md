@@ -2,9 +2,9 @@
 
 ![Medusa Hackathon 2022](hackathon-banner.jpeg)
 
-This repository includes all the rules and guidelines that the README file of your GitHub submission must follow.
+This repository acts as a template for GitHub submissions to Medusa's Hackathon 2022. It includes all the rules and guidelines that the README file of your GitHub submission must follow.
 
-## Header
+## {project name}
 
 ### Cover Image
 
@@ -20,7 +20,7 @@ If you have hosted your submission for demo purposes, please include a link to t
 
 If you also publish your submission on NPM (if applicable), include a link to it here.
 
-## Content Sections
+## About
 
 ### Participants
 
@@ -41,7 +41,7 @@ Some examples of previews based on repository type:
 - For storefront submissions, GIFs are highly recommended that showcase the entire flow (products list, add to cart, checkout, etc…)
 - For integration submissions, images that showcase the integration between Medusa and the tool or service used are recommended.
 
-## Setup Project
+## Set up Project
 
 This section should cover how to set up and run the project locally. It’s intended to help the Medusa team properly review your submission, as well as help the community to benefit from your submission.
 
