@@ -16,9 +16,9 @@ You can check [this example repository](https://github.com/suhailkakar/react-nat
 
 The header of your GitHub repository must include a cover image that gives an overview of your submission.
 
-For example, if your submission is revolved around building a storefront for Medusa with a frontend framework, you can create a cover image with the Medusa logo and the logo of your frontend framework.
+You can use [our template cover photos](https://www.figma.com/community/file/1157643826098186093) on Figma to create your own.
 
-You can check an example of a cover photo in our [Next.js storefront starter](https://github.com/medusajs/nextjs-starter-medusa#overview).
+For example, if your submission is revolved around building a storefront for Medusa with a frontend framework, you can create a cover image with the Medusa logo and the logo of your frontend framework.
 
 ### Demo Link
 
