@@ -10,7 +10,7 @@ This repository acts as a template for GitHub submissions to Medusa's Hackathon 
 
 You can check [this example repository](https://github.com/suhailkakar/react-native-medusajs) of how the expected README should look like.
 
-## {project name}
+## Project Name
 
 ### Cover Image
 
