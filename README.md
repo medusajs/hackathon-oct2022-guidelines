@@ -1,5 +1,6 @@
 # Medusa Hackathon 2022 - README Guidelines
-![Medusa Hackathon 2022](https://user-images.githubusercontent.com/85512181/193413484-7f7e2b88-57b2-440f-9638-92f17e330776.jpg)
+
+![Medusa Hackathon 2022](hackathon-banner.jpg)
 
 This repository acts as a template for GitHub submissions to Medusa's Hackathon 2022. It includes all the rules and guidelines that the README file of your GitHub submission must follow.
 
