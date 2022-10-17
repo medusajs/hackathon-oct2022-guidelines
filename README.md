@@ -61,7 +61,7 @@ Examples of Prerequisites:
 - Create an account in service X (for integrations with other services).
 - Redis, PostgreSQL, or any of Medusa’s configurations or plugins.
 
-### Install Project
+### Install Projects
 
 In this section, cover step by step how to run your submission, with each step having a code block example of the command if applicable.
 
